@@ -6,6 +6,6 @@ In predictWDC directory you can find a prediction based on who can still win the
 
 # Project WIP
 
-[] Analyze laps between drivers
-[] Analyze telemetry
-[] Analyze microsectors between two drivers in a qualyfing lap
+- [] Analyze laps between drivers
+- [] Analyze telemetry
+- [] Analyze microsectors between two drivers in a qualyfing lap
