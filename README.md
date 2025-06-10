@@ -1,11 +1,12 @@
-# f1-data-analysis
+# F1 Data Analysis 🏎️
 
-Data analysis project made with Python and FastF1 API.
+A comprehensive Formula 1 data analysis project built with Python and the FastF1 API, providing in-depth insights into race performance, driver statistics, and championship predictions.
 
-In predictWDC directory you can find a prediction based on who can still win the F1 2024 WDC, updated to last race in Monza (1st September 2024).
+## 🏁 Overview
 
-# Project WIP
+This project leverages the FastF1 API to analyze Formula 1 telemetry data, lap times, and performance metrics. It includes predictive models for championship outcomes and detailed comparative analysis between drivers and teams.
 
-- [ ] Analyze laps between drivers
-- [ ] Analyze telemetry
-- [ ] Analyze microsectors between two drivers in a qualyfing lap
+## 📊 Features
+
+### Current Features
+- **🏆 WDC Prediction Model**: Real-time championship winner predictions based on current standings and race performance
